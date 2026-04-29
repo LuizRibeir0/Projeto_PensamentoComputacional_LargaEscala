@@ -80,7 +80,8 @@ O sistema foi dividido nos seguintes módulos:
 
 ## 🚧 Desafios Identificados
 
-- Escalabilidade para **diversos profutos**  
+- Escalabilidade para **diversos produtos**
+- Integrar Springboot ao **Swing**
 
 ---
 
