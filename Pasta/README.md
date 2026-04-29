@@ -84,6 +84,13 @@ O sistema foi dividido nos seguintes módulos:
 
 ---
 
+## 🔗 Repositório do Projeto
+
+- [Backend - API REST em Spring Boot](https://github.com/LuizRibeir0/GerenciadorDeEstoque)
+  Responsável pela lógica de negócio e acesso ao banco de dados.
+
+---
+
 ## 📌 Observação
 
 Este projeto tem caráter **acadêmico** e visa consolidar conceitos fundamentais de **pensamento computacional aplicado a sistemas de larga escala**.
